@@ -497,7 +497,7 @@ function AfflictedSpells:GetData()
 		-- Elemental Mastery
 		[16166] = "{cooldown=180;cdAnchor='cooldowns';class='SHAMAN';}",
 		-- Heroism
-		[32182] = "{type='buff';duration=40;anchor='buffs';cooldown=600;cdAnchor='cooldowns';class='SHAMAN';}",
+		[32182] = "{type='buff';duration=40;anchor='buffs';cooldown=300;cdAnchor='cooldowns';class='SHAMAN';}",
 		-- Bloodlust
 		[2825] = 32182,
 		-- Tremor Totem
